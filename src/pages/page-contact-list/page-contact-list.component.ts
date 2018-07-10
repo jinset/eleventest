@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-
 import {ContactData} from '../../data/contactData';
 import {ContactModel} from '../../model/contactModel'
 declare var $:any;
